@@ -1,0 +1,7 @@
+Arithmetic
+comparison (Relational)
+Assignment
+Logical
+Bitwise
+Membership
+Identify

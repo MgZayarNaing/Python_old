@@ -1,0 +1,5 @@
+file = open("testing.txt", "a")
+file.write("Here is new")
+file.close()
+file = open("testing.txt", "r")
+print(testing.read())

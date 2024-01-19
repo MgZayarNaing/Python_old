@@ -1,0 +1,1 @@
+file = open ("note.txt", "x")
